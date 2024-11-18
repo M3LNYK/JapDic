@@ -7,7 +7,7 @@ Idea is to retrieve data from my [quizlet form link](https://quizlet.com/pl/9577
 
 Simple algo desc:
 1. Create list of terms
-2. Retrive new terms
+2. Retrive new terms - turns out you can export words from web page without scraping
 3. Check if terms in the list
 4. Add to list new terms
 5. Extract as table new terms
@@ -16,11 +16,7 @@ Simple algo desc:
 Full link for easiness - `https://quizlet.com/pl/957743446/japanese-a1-flash-cards/`
 
 ## Possible problems now:
-- [ ] Find element that stores terms on page
-    - [ ] Eng
-    - [ ] Jap
-- [ ] Retrive element w terms
-- [ ] Store in code
-    - [ ] Create local version of table and compare?
-- [ ] Store in table
-- [ ] Extract table file
+- [X] Get words from quizlet
+- [ ] Convert into pd
+- [ ] Save 
+- [ ] Extract table file in folder

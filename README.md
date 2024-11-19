@@ -25,4 +25,6 @@ Full link for easiness - `https://quizlet.com/pl/957743446/japanese-a1-flash-car
 - [X] Add table to notion page
 - [X] Populate table
     - [X] get last id used in table
+- [X] Add check for last created file
+- [X] Option to select separator
 - [ ] Check for duplicates

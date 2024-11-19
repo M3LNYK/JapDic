@@ -20,3 +20,7 @@ Full link for easiness - `https://quizlet.com/pl/957743446/japanese-a1-flash-car
 - [ ] Convert into pd
 - [ ] Save 
 - [ ] Extract table file in folder
+- [X] Access notion page
+    - [X] Mod notion page
+- [ ] Add table to notion page
+- [ ] Populate table 

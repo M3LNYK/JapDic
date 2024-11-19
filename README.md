@@ -7,7 +7,7 @@ Idea is to retrieve data from my [quizlet form link](https://quizlet.com/pl/9577
 
 Simple algo desc:
 1. Create list of terms
-2. Retrive new terms - turns out you can export words from web page without scraping
+2. Retrive new terms - turns out you can export words from web page without scraping - use comma separation
 3. Check if terms in the list
 4. Add to list new terms
 5. Extract as table new terms
@@ -22,5 +22,7 @@ Full link for easiness - `https://quizlet.com/pl/957743446/japanese-a1-flash-car
 - [ ] Extract table file in folder
 - [X] Access notion page
     - [X] Mod notion page
-- [ ] Add table to notion page
-- [ ] Populate table 
+- [X] Add table to notion page
+- [X] Populate table
+    - [X] get last id used in table
+- [ ] Check for duplicates

@@ -17,9 +17,6 @@ Full link for easiness - `https://quizlet.com/pl/957743446/japanese-a1-flash-car
 
 ## Possible problems now:
 - [X] Get words from quizlet
-- [ ] Convert into pd
-- [ ] Save 
-- [ ] Extract table file in folder
 - [X] Access notion page
     - [X] Mod notion page
 - [X] Add table to notion page
@@ -27,4 +24,8 @@ Full link for easiness - `https://quizlet.com/pl/957743446/japanese-a1-flash-car
     - [X] get last id used in table
 - [X] Add check for last created file
 - [X] Option to select separator
+- [-] Update date before table?
 - [ ] Check for duplicates
+- [ ] Convert into pd
+- [ ] Save 
+- [ ] Extract table file in folder

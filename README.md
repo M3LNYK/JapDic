@@ -25,7 +25,7 @@ Full link for easiness - `https://quizlet.com/pl/957743446/japanese-a1-flash-car
 - [X] Add check for last created file
 - [X] Option to select separator
 - [-] Update date before table?
-- [ ] Check for duplicates
-- [ ] Convert into pd
-- [ ] Save 
+- [X] Check for duplicates
+- [X] Save 
 - [ ] Extract table file in folder
+    - fix saving when there is pronoucing column

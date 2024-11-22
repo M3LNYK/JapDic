@@ -1,0 +1,6 @@
+X0001
+79. GO
+chair
+pwr
+kitchen
+5

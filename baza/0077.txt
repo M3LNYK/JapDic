@@ -1,0 +1,6 @@
+X0100
+77. SAN
+towel
+3
+which one (when there are only 2 choices)
+toilet

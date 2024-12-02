@@ -1,0 +1,4 @@
+up = ue
+down = shita
+right = migi
+left = hidari

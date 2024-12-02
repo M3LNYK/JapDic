@@ -1,5 +1,5 @@
 # JapDic 
-Version 1.0
+Version 3.0
 Made by Vik
 
 ## Idea description

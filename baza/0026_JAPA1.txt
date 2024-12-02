@@ -1,0 +1,6 @@
+X0010
+26. MIZU
+shop
+1
+water
+wall

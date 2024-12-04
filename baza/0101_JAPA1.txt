@@ -1,6 +1,6 @@
 X0001
 101. KAMI
-bottle
-south korea
-pencase
+book
+germany
+company
 hair

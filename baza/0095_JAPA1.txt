@@ -1,6 +1,6 @@
-X0001
+X0100
 95. OSHIRO
-refrigerator
-hair
-8
+good afternoon
 castle
+museum
+shower

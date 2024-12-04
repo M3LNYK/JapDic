@@ -1,6 +1,6 @@
-X0010
+X1000
 104. KATA
-kitchen
-swimming pool
 shoulder(s)
-toilet
+towel
+police station
+microwave

@@ -1,6 +1,0 @@
-X0010
-139. JITENSHA
-floor
-ceiling
-bicycle
-hand(s)

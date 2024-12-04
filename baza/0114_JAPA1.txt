@@ -1,6 +1,6 @@
-X1000
+X0010
 114. SONO X
+company
+key(s)
 that x
-wallet
-university
-good morning
+microwave

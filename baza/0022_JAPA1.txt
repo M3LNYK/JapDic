@@ -1,6 +1,6 @@
-X0001
+X1000
 22. YUKA
-towel
-pen(s)
-key(s)
 floor
+post office
+kitchen
+name

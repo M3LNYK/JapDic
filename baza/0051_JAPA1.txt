@@ -1,6 +1,6 @@
-X0100
+X0010
 51. DOITSU
-stomach
-germany
+key(s)
 park
-7
+germany
+hair

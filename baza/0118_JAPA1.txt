@@ -1,6 +1,6 @@
-X1000
+X0001
 118. YANE
+clothes
+3
+inside
 roof
-CALLIGRAPHY PAPER
-bed
-cinema

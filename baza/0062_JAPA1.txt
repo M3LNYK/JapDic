@@ -1,6 +1,6 @@
-X0100
+X0010
 62. DOCHIRA
-10
+netherlands
+sink
 which
-company
-village
+university

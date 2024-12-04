@@ -1,6 +1,6 @@
-X1000
+X0010
 44. GIRISHA
+shoe(s)
+kettle
 greece
-9
-pwr
-key(s)
+10

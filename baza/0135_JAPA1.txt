@@ -1,6 +1,6 @@
-X0010
+X0001
 135. REIZOUKO
-police station
-motorbike
+tv
+usa
+10
 refrigerator
-car

@@ -1,6 +1,6 @@
-X0001
+X1000
 39. IIE
-table/desk
-park
-village
 no
+person [respect form]
+wall
+2

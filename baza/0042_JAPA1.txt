@@ -1,6 +1,6 @@
 X0100
 42. SUPEIN
-nose
+bank
 spain
-sink
-there
+glass
+theatre

@@ -1,6 +1,6 @@
-X0001
+X0100
 69. KOUEN
-france
-leg(s)
-railway station
+refrigerator
 park
+eye glasses
+cup

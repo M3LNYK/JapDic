@@ -1,6 +1,6 @@
-X0010
+X0001
 23. TENJOU
-entrance
-table/desk
+which
+spain
+police station
 ceiling
-home/house

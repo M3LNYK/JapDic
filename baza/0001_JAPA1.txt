@@ -1,6 +1,6 @@
-X1000
+X0010
 1. KANOJO
+pub
+roof
 she
-room
-bed
-park
+back

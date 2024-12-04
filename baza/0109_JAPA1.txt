@@ -1,6 +1,6 @@
 X0100
 109. ASHI
-temple
+netherlands
 leg(s)
-head
-shoe(s)
+bottle
+magazine

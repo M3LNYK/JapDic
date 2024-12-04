@@ -1,6 +1,0 @@
-X1000
-3. NAMAE
-name
-clock
-door
-bath

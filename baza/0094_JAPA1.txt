@@ -1,6 +1,6 @@
-X1000
+X0100
 94. OTERA
+there
 temple
-floor
-church
-cinema
+money
+left

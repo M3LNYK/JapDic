@@ -1,6 +1,6 @@
 X0100
 100. KUCHI
-9
+university
 mouth
-eye(s)
-museum
+down
+that x

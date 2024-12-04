@@ -1,6 +1,6 @@
-X0010
+X0100
 33. PC
-pen(s)
-towel
+kitchen
 pc
-oven
+ceiling
+pub

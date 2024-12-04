@@ -1,6 +1,6 @@
-X0010
+X1000
 130. RIMOKON
-right
-she
 remote controller
-south korea
+notebook
+letter
+university

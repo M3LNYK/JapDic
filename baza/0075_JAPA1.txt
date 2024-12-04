@@ -1,6 +1,6 @@
-X1000
+X0010
 75. ICHI
+CALLIGRAPHY PAPER
+cinema
 1
-toilet
-person [respect form]
-france
+bottle

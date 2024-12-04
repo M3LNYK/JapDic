@@ -1,6 +1,6 @@
-X0001
+X0010
 108. ONAKA
-key(s)
-kitchen
-airport
+police station
+window
 stomach
+leg(s)

@@ -1,6 +1,6 @@
 X0100
 48. ORANDA
-europe
+letter
 netherlands
-arm(s)
-south korea
+bag
+head

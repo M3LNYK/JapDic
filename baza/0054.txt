@@ -1,6 +1,0 @@
-X0001
-54. KATA
-village
-pub
-1
-person [respect form]

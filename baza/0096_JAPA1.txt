@@ -1,6 +1,6 @@
-X1000
+X0001
 96. ATAMA
+8
+hair
+chopsticks
 head
-post office
-entrance
-spain

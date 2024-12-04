@@ -1,6 +1,6 @@
-X0001
+X1000
 83. KYUU
-arm(s)
-oven
-village
 9
+roof
+clothes
+kettle

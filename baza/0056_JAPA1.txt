@@ -1,6 +1,6 @@
-X1000
+X0010
 56. MACHI
+he
+bank
 city/town
-this x
-railway station
-airport
+home/house

@@ -1,6 +1,6 @@
-X0100
+X0001
 18. KAMI
-library
+neck
+ceiling
+inside
 paper
-good morning
-over there

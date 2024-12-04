@@ -1,6 +1,6 @@
-X0001
+X1000
 17. FUKU
-he
-usa
-which one (when there are only 2 choices)
 clothes
+neck
+person [respect form]
+bag

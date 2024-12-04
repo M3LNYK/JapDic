@@ -1,6 +1,6 @@
-X0100
+X0001
 67. KEISATSUSHO
-mirror
+this (these)
+lamp
+name
 police station
-that x
-kitchen

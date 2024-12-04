@@ -1,6 +1,6 @@
-X0001
+X1000
 72. EIGAKAN
-shoe(s)
-my/me
-wrist watch
 cinema
+lamp
+paper
+pokemon

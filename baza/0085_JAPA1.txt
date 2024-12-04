@@ -1,6 +1,6 @@
 X0100
 85. DORE
-toilet
+stomach
 which one (when there are 3 choices or more)
-head
-switzerland
+france
+here

@@ -1,6 +1,6 @@
-X1000
+X0100
 14. DOA
+pokemon
 door
-microwave
-7
-chair
+usa
+greece

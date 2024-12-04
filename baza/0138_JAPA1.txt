@@ -1,6 +1,6 @@
-X0010
+X0001
 138. BAIKU
-bottle
-neck
+pwr
+school
+refrigerator
 motorbike
-pen(s)

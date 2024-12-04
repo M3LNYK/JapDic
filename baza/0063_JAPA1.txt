@@ -1,6 +1,6 @@
-X1000
+X0010
 63. KOKO
+table/desk
+pokemon
 here
-bed
-left
-germany
+1

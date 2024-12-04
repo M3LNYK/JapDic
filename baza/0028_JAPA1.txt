@@ -1,6 +1,6 @@
-X0010
+X0001
 28. KONNICHIWA
-floor
-clothes
+up
+roof
+neck
 good afternoon
-remote controller

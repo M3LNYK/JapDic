@@ -1,6 +1,6 @@
-X0001
+X0010
 98. ME
-shop
-table/desk
-shower
+bicycle
+chopsticks
 eye(s)
+chest

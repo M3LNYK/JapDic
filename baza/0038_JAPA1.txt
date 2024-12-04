@@ -1,6 +1,6 @@
 X0010
 38. HAI
-good afternoon
-temple
+bank
+pokemon
 yes
-bath
+eye glasses

@@ -1,6 +1,6 @@
-X0001
+X1000
 102. KARADA
-library
-netherlands
-theatre
 body
+mouth
+left
+eye glasses

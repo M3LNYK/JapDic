@@ -1,6 +1,6 @@
 X0001
 36. KEITAI
-germany
-spain
-body
+key(s)
+left
+back / behind
 mobile phone

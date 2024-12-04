@@ -1,6 +1,6 @@
-X0001
+X0010
 110. SENAKA
-9
-right
-pencase
+that x
+turkey
 back
+outside

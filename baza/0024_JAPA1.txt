@@ -1,6 +1,6 @@
-X0010
+X1000
 24. MADO
-railway station
-this x
 window
-oven
+4
+toilet
+usa

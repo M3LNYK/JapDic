@@ -1,6 +1,6 @@
-X0010
+X1000
 131. BEDDO
-village
-there
 bed
-garden
+person
+body
+3

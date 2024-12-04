@@ -1,6 +1,6 @@
-X0010
+X1000
 31. PEN
-france
-usa
 pen(s)
-that x
+chopsticks
+hair
+inside

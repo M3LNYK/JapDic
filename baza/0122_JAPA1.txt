@@ -1,6 +1,6 @@
 X0001
 122. NAGASHI
-no
-clothes
-france
+bank
+pc
+school
 sink

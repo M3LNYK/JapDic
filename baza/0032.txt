@@ -1,6 +1,0 @@
-X0001
-32. KAGI
-window
-church
-this x
-key(s)

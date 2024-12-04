@@ -1,6 +1,6 @@
 X0001
 123. FUROBA
-company
-which one (when there are only 2 choices)
-entrance
+cinema
+pub
+radio
 bathroom

@@ -1,6 +1,6 @@
-X0010
+X0001
 30. KORE
-bath
-chair
+up
+bed
+pokemon
 this (these)
-floor

@@ -1,6 +1,6 @@
-X0001
+X0100
 54. KATA
-good afternoon
-motorbike
-bank
+letter
 person [respect form]
+kettle
+book

@@ -1,6 +1,6 @@
 X1000
 80. ROKU
 6
-post office
-railway station
-pub
+plates
+bathroom
+which one (when there are only 2 choices)

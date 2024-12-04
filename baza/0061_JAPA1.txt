@@ -1,6 +1,6 @@
-X0001
+X0010
 61. WROCLAW KOUKA DAIGAKU
-leg(s)
-shoulder(s)
-room
+which one (when there are only 2 choices)
+bathroom
 pwr
+face

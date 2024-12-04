@@ -1,6 +1,6 @@
-X0100
+X0010
 2. KARE
-nose
+usa
+this x
 he
-bicycle
-cinema
+next to

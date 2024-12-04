@@ -1,6 +1,6 @@
-X0010
+X0001
 26. MIZU
-shop
-1
+garden
+cinema
+library
 water
-wall

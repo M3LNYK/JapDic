@@ -1,6 +1,6 @@
-X0001
+X1000
 117. ENTOTSU
-ceiling
-library
-table/desk
 chimney
+5
+3
+lamp

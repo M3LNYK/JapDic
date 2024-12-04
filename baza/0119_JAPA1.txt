@@ -1,6 +1,6 @@
-X0010
+X1000
 119. KITCHEN, DAIDOKORO
-shop
-7
 kitchen
-library
+france
+greece
+nose

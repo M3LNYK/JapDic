@@ -1,6 +1,6 @@
-X0010
+X1000
 127. KAGAMI
-bath
-3
 mirror
-company
+castle
+turkey
+police station

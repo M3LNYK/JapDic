@@ -5,7 +5,10 @@ venv/
 *.env
 data/demo.txt
 
+# To stop adding new words files
 data/
+# To stop adding new questions
+baza/ 
 
 # ignore fo notebook
 .ipynb_checkpoints

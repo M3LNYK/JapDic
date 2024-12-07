@@ -1,6 +1,0 @@
-X0001
-60. KAISHA
-library
-back
-bicycle
-company

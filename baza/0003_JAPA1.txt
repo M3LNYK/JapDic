@@ -1,6 +1,0 @@
-X0100
-3. NAMAE
-which one (when there are 3 choices or more)
-name
-museum
-company

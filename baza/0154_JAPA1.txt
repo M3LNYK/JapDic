@@ -1,6 +1,0 @@
-X0001
-154. ZASSHI
-head
-pencase
-friend(s)
-magazine

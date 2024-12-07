@@ -1,6 +1,0 @@
-X0001
-84. JUU
-leg(s)
-hand(s)
-floor
-10

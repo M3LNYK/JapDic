@@ -1,6 +1,0 @@
-X0001
-74. TOSHOKAN
-pc
-9
-oven
-library

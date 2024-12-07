@@ -1,6 +1,0 @@
-X0001
-149. TEGAMI
-10
-cat
-pwr
-letter

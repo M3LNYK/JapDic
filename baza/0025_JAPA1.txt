@@ -1,6 +1,0 @@
-X0100
-25. RANPU
-village
-lamp
-5
-friend(s)

@@ -1,6 +1,0 @@
-X0100
-137. KURUMA
-down
-car
-yes
-bank

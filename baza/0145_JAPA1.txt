@@ -1,6 +1,0 @@
-X0100
-145. NAKA
-city/town
-inside
-10
-cat

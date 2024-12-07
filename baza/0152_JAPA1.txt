@@ -1,6 +1,0 @@
-X0010
-152. GURASU
-person
-which one (when there are 3 choices or more)
-glass
-right

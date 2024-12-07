@@ -1,6 +1,6 @@
 X0100
 72. EIGAKAN
-table/desk
+left
 cinema
-6
-this (these)
+next to
+hand(s)

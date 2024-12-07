@@ -1,6 +1,6 @@
 X0010
 22. YUKA
-bed
-railway station
+mouth
+china
 floor
-no
+clock

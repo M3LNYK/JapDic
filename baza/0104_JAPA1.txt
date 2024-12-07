@@ -1,6 +1,6 @@
-X0001
+X0100
 104. KATA
-school
-microwave
-person
+table/desk
 shoulder(s)
+china
+notebook

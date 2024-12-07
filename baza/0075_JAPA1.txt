@@ -1,6 +1,6 @@
-X1000
+X0010
 75. ICHI
+wrist watch
+railway station
 1
-refrigerator
-church
-which one (when there are only 2 choices)
+7

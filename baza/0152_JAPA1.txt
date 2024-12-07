@@ -1,6 +1,6 @@
-X0001
+X0010
 152. GURASU
-usa
-chichi, otousan
-radio
+person
+which one (when there are 3 choices or more)
 glass
+right

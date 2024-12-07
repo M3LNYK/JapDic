@@ -1,6 +1,6 @@
 X0001
 40. CHUUGOKU
-here
-mouth
-kitchen
+person
+book
+no
 china

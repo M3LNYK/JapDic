@@ -1,6 +1,6 @@
-X0100
+X0001
 149. TEGAMI
-clothes
+10
+cat
+pwr
 letter
-window
-book

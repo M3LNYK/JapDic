@@ -1,6 +1,6 @@
-X1000
+X0010
 8. BOTORU
+sink
+leg(s)
 bottle
-4
-head
-hospital
+outside

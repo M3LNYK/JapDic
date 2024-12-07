@@ -1,6 +1,6 @@
-X0010
+X0001
 94. OTERA
-chair
-remote controller
+right
+bank
+refrigerator
 temple
-microwave

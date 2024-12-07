@@ -1,6 +1,6 @@
 X0100
 155. DENWA
-airport
+wallet
 telephone
-chair
-shower
+village
+she

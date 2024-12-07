@@ -1,6 +1,6 @@
-X0010
+X0100
 79. GO
-3
-front / forward
+library
 5
-radio
+bag
+friend(s)

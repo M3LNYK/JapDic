@@ -1,6 +1,6 @@
-X0010
+X1000
 111. IE
-2
-she
 home/house
-bath
+temple
+there
+radio

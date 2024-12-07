@@ -1,6 +1,6 @@
-X0010
+X0100
 143. HIDARI
-remote controller
-motorbike
+this (these)
 left
-mouth
+museum
+wall

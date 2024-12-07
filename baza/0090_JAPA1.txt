@@ -1,6 +1,6 @@
-X0001
+X0100
 90. MISE
-face
-this (these)
-chest
+plates
 shop
+inside
+name

@@ -1,6 +1,6 @@
-X0001
+X0100
 70. GINKOU
-book
-telephone
-lamp
+spain
 bank
+she
+china

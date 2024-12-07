@@ -1,6 +1,6 @@
-X1000
+X0010
 141. SHITA
+floor
+netherlands
 down
-home/house
-telephone
-haha, okaasan
+here

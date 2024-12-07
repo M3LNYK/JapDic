@@ -1,6 +1,6 @@
-X1000
+X0100
 13. KABE
+window
 wall
-oven
-stomach
-6
+police station
+shop

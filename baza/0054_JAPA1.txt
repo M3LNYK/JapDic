@@ -1,6 +1,6 @@
-X0001
+X1000
 54. KATA
-hand(s)
-chest
-italy
 person [respect form]
+hair
+over there
+here

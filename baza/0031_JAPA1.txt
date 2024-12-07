@@ -1,6 +1,6 @@
-X1000
+X0001
 31. PEN
+hospital
+bag
+telephone
 pen(s)
-eye(s)
-haha, okaasan
-lamp

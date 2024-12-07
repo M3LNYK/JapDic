@@ -1,6 +1,6 @@
-X0100
+X0010
 71. GEKIJOU
-3
+1
+shoe(s)
 theatre
-pokemon
-bathroom
+magazine

@@ -1,6 +1,6 @@
-X0001
+X0010
 23. TENJOU
-inu
-belgium
-left
+kazoku
+roof
 ceiling
+9

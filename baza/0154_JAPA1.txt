@@ -1,6 +1,6 @@
 X0001
 154. ZASSHI
-chair
-mirror
-person [respect form]
+head
+pencase
+friend(s)
 magazine

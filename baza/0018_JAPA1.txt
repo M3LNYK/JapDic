@@ -1,6 +1,6 @@
-X0001
+X0010
 18. KAMI
-turkey
-spain
-book
+outside
+magazine
 paper
+6

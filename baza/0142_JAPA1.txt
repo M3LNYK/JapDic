@@ -1,6 +1,6 @@
-X0010
+X0001
 142. MIGI
-shoulder(s)
-clock
+chopsticks
+arm(s)
+mirror
 right
-shower

@@ -1,6 +1,6 @@
-X0001
+X0010
 65. ASOKO
-left
-clock
-spain
+up
+which
 over there
+bag

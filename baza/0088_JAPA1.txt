@@ -1,6 +1,6 @@
-X0001
+X0010
 88. PABU
-person [respect form]
-bicycle
-my/me
+railway station
+outside
 pub
+cinema

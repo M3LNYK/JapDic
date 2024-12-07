@@ -1,6 +1,6 @@
 X0100
 148. USHIRO
-tori
+remote controller
 back / behind
-front / forward
-eye(s)
+leg(s)
+radio

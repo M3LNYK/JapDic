@@ -1,6 +1,6 @@
-X0001
+X1000
 85. DORE
-kitchen
-cinema
-switzerland
 which one (when there are 3 choices or more)
+greece
+7
+kettle

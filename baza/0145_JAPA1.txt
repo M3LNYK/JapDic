@@ -1,6 +1,6 @@
-X0001
+X0100
 145. NAKA
-pen(s)
-kitchen
-garden
+city/town
 inside
+10
+cat

@@ -1,6 +1,6 @@
-X0010
+X1000
 87. EKI
-inu
-china
 railway station
-leg(s)
+stomach
+belgium
+library

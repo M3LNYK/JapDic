@@ -1,6 +1,6 @@
 X0010
 21. HON
-body
-kitchen
+toilet
+kettle
 book
-tv
+leg(s)

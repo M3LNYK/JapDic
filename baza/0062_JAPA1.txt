@@ -1,6 +1,6 @@
 X0001
 62. DOCHIRA
-library
-person [respect form]
-neko
+hand(s)
+body
+clock
 which

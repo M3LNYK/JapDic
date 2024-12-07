@@ -1,6 +1,6 @@
 X0010
 103. KUBI
-3
-inside
+shop
+oven
 neck
-germany
+3

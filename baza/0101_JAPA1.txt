@@ -1,6 +1,6 @@
-X0001
+X0010
 101. KAMI
-you, your
-kitchen
-paper
+bicycle
+door
 hair
+kettle

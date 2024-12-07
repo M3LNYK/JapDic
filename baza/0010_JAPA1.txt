@@ -1,6 +1,6 @@
-X0010
+X0100
 10. BOUSHI
-switzerland
-telephone
+up
 hat
-9
+back
+monkey

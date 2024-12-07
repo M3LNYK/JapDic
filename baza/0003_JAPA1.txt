@@ -1,6 +1,6 @@
-X0001
+X0100
 3. NAMAE
-front / forward
-money
-7
+which one (when there are 3 choices or more)
 name
+museum
+company

@@ -1,6 +1,6 @@
-X1000
+X0001
 33. PC
+motorbike
+south korea
+back
 pc
-body
-mouth
-radio

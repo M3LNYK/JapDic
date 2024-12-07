@@ -1,6 +1,6 @@
 X0001
 60. KAISHA
-door
-body
 library
+back
+bicycle
 company

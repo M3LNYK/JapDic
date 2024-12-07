@@ -1,6 +1,6 @@
 X1000
 42. SUPEIN
 spain
-back
-2
-chest
+mother
+body
+microwave

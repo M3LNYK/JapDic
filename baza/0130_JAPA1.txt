@@ -1,6 +1,6 @@
-X0001
+X0010
 130. RIMOKON
-table/desk
-kitchen
-CALLIGRAPHY PAPER
+car
+mother
 remote controller
+over there

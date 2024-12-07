@@ -1,6 +1,6 @@
 X0100
 107. MUNE
-body
+city/town
 chest
-telephone
-right
+outside
+my/me

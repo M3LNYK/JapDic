@@ -1,6 +1,6 @@
-X0001
+X0100
 58. DAIGAKU
-shop
-CALLIGRAPHY PAPER
-back
+school
 university
+motorbike
+money

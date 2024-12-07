@@ -1,6 +1,6 @@
 X0001
 74. TOSHOKAN
-school
-church
-yes
+pc
+9
+oven
 library

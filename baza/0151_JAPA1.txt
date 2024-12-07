@@ -1,6 +1,6 @@
 X0001
 151. YAKAN
-6
-window
-usa
+this x
+police station
+person [respect form]
 kettle

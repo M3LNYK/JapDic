@@ -1,6 +1,6 @@
-X0001
+X0010
 6. FUDEBAKO
-radio
-refrigerator
-pc
+wall
+inside
 pencase
+school

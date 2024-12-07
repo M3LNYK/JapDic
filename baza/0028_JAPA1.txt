@@ -1,6 +1,6 @@
-X0010
+X0001
 28. KONNICHIWA
-cinema
-neko
+pencase
+my/me
+he
 good afternoon
-church

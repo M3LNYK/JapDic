@@ -1,6 +1,6 @@
-X0010
+X0001
 45. TORUKO
-chopsticks
-motorbike
+bank
+father
+university
 turkey
-this (these)

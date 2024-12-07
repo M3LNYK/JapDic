@@ -1,6 +1,6 @@
-X0001
+X1000
 129. TEREBI
-tori
-wall
-notebook
 tv
+mobile phone
+radio
+shoulder(s)

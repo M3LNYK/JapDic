@@ -1,6 +1,6 @@
-X1000
+X0001
 12. ISU
+mirror
+4
+nose
 chair
-turkey
-clock
-6

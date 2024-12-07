@@ -1,6 +1,6 @@
-X0010
+X0100
 120. HEYA
-shop
-park
+railway station
 room
-you, your
+motorbike
+person

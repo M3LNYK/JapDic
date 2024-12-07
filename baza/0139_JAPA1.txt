@@ -1,6 +1,6 @@
-X0010
+X0100
 139. JITENSHA
-she
-pwr
+paper
 bicycle
-company
+pencase
+4

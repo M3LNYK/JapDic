@@ -1,6 +1,6 @@
-X1000
+X0100
 117. ENTOTSU
+kazoku
 chimney
-5
-3
-lamp
+front / forward
+inside

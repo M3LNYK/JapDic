@@ -1,6 +1,6 @@
 X0010
 38. HAI
-bank
-pokemon
+church
+bed
 yes
-eye glasses
+temple

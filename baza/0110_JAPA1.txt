@@ -1,6 +1,6 @@
-X0010
+X0001
 110. SENAKA
-that x
-turkey
+belgium
+book
+radio
 back
-outside

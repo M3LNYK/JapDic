@@ -1,6 +1,6 @@
-X0001
+X0100
 93. TOIRE
-mirror
-chest
-here
+hospital
 toilet
+telephone
+airport

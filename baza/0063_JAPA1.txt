@@ -1,6 +1,6 @@
-X0010
+X0001
 63. KOKO
-table/desk
-pokemon
+back
+mouth
+money
 here
-1

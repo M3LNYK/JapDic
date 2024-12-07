@@ -1,6 +1,6 @@
-X1000
+X0001
 65. ASOKO
+left
+clock
+spain
 over there
-bed
-inside
-university

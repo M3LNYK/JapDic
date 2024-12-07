@@ -1,6 +1,6 @@
-X0001
+X1000
 4. KABAN
-no
-chair
-mobile phone
 bag
+swimming pool
+europe
+door

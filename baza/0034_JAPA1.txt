@@ -1,6 +1,6 @@
 X0100
 34. POCKETO MONSTER
-oven
+2
 pokemon
-lamp
-park
+mouth
+1

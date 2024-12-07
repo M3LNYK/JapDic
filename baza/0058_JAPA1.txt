@@ -1,6 +1,6 @@
-X0010
+X0001
 58. DAIGAKU
+shop
+CALLIGRAPHY PAPER
 back
-airport
 university
-church

@@ -1,6 +1,6 @@
 X0100
 69. KOUEN
-refrigerator
+front / forward
 park
-eye glasses
-cup
+tori
+pc

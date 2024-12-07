@@ -1,6 +1,6 @@
-X0001
+X0010
 135. REIZOUKO
-tv
-usa
-10
+this x
+plates
 refrigerator
+garden

@@ -1,6 +1,6 @@
-X0001
+X0010
 122. NAGASHI
-bank
-pc
-school
+bottle
+which one (when there are 3 choices or more)
 sink
+inside

@@ -1,6 +1,6 @@
-X0001
+X1000
 134. HASHI
-arm(s)
-you, your
-6
 chopsticks
+up
+airport
+france

@@ -1,6 +1,6 @@
-X0001
+X0010
 82. HACHI
-railway station
-2
-mobile phone
+good afternoon
+hato
 8
+outside

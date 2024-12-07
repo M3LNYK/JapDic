@@ -1,6 +1,6 @@
-X0100
+X0010
 111. IE
-plates
+2
+she
 home/house
-school
-right
+bath

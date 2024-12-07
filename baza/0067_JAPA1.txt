@@ -1,6 +1,6 @@
-X0001
+X0010
 67. KEISATSUSHO
-this (these)
-lamp
-name
+church
+mouth
 police station
+6

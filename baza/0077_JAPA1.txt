@@ -1,6 +1,6 @@
 X0010
 77. SAN
-body
-university
+pen(s)
+up
 3
-tv
+library

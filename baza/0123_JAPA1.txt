@@ -1,6 +1,6 @@
-X0001
+X0100
 123. FUROBA
-cinema
-pub
-radio
+university
 bathroom
+good afternoon
+10

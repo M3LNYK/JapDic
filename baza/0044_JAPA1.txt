@@ -1,6 +1,6 @@
-X0010
+X1000
 44. GIRISHA
-shoe(s)
-kettle
 greece
-10
+table/desk
+united kingdom
+temple

@@ -1,6 +1,6 @@
 X1000
 24. MADO
 window
-4
-toilet
-usa
+railway station
+refrigerator
+up

@@ -1,6 +1,6 @@
-X0100
+X1000
 95. OSHIRO
-good afternoon
 castle
-museum
-shower
+towel
+wallet
+back / behind

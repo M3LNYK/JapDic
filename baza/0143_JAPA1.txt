@@ -1,6 +1,6 @@
-X0001
+X0010
 143. HIDARI
-oven
-greece
-yes
+remote controller
+motorbike
 left
+mouth

@@ -1,6 +1,6 @@
-X0010
+X1000
 75. ICHI
-CALLIGRAPHY PAPER
-cinema
 1
-bottle
+refrigerator
+church
+which one (when there are only 2 choices)

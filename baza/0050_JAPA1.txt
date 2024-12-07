@@ -1,6 +1,6 @@
-X0010
+X0100
 50. AMERIKA
-bicycle
-my/me
+there
 usa
-oven
+door
+magazine

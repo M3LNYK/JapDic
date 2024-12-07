@@ -1,6 +1,6 @@
-X0001
+X0100
 30. KORE
-up
-bed
-pokemon
+window
 this (these)
+nose
+name

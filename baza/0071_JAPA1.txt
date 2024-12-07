@@ -1,6 +1,6 @@
-X0001
+X0100
 71. GEKIJOU
-europe
-floor
-toilet
+3
 theatre
+pokemon
+bathroom

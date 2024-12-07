@@ -1,6 +1,6 @@
-X0001
+X0010
 36. KEITAI
-key(s)
-left
-back / behind
+floor
+leg(s)
 mobile phone
+pokemon

@@ -1,6 +1,6 @@
-X1000
+X0010
 131. BEDDO
+temple
+pencase
 bed
-person
-body
-3
+netherlands

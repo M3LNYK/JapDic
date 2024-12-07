@@ -1,6 +1,6 @@
 X0001
 18. KAMI
-neck
-ceiling
-inside
+turkey
+spain
+book
 paper

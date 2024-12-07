@@ -1,6 +1,6 @@
-X0010
+X0001
 145. NAKA
-cup
-oven
+pen(s)
+kitchen
+garden
 inside
-that x

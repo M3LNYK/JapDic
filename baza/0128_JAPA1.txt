@@ -1,6 +1,6 @@
 X0001
 128. SENMENJO
-cinema
-bath
-shop
+person [respect form]
+that x
+spain
 CALLIGRAPHY PAPER

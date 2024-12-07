@@ -1,6 +1,6 @@
-X0001
+X0010
 73. HAKUBUTSUKAN
-letter
-no
-school
+park
+you, your
 museum
+post office

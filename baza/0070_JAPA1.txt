@@ -1,6 +1,6 @@
-X1000
+X0001
 70. GINKOU
+book
+telephone
+lamp
 bank
-pen(s)
-shoulder(s)
-belgium

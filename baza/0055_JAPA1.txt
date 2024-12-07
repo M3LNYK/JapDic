@@ -1,6 +1,6 @@
 X0100
 55. PO-RANDO
-europe
+4
 poland
-wall
-pc
+head
+arm(s)

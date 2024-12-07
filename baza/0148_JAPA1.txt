@@ -1,6 +1,6 @@
-X0001
+X0100
 148. USHIRO
-here
-3
-that x
+tori
 back / behind
+front / forward
+eye(s)

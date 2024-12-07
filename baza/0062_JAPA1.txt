@@ -1,6 +1,6 @@
-X0010
+X0001
 62. DOCHIRA
-netherlands
-sink
+library
+person [respect form]
+neko
 which
-university

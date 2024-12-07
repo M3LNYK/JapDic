@@ -1,6 +1,6 @@
 X0010
 120. HEYA
-magazine
-ceiling
+shop
+park
 room
-eye(s)
+you, your

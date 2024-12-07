@@ -1,6 +1,6 @@
-X0010
+X0001
 129. TEREBI
-oven
-poland
+tori
+wall
+notebook
 tv
-which

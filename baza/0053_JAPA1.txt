@@ -1,6 +1,6 @@
-X0100
+X0001
 53. HITO
-hand(s)
+down
+cup
+body
 person
-that x
-yes

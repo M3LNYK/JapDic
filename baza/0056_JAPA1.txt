@@ -1,6 +1,6 @@
 X0010
 56. MACHI
-he
-bank
+body
+pencase
 city/town
-home/house
+south korea

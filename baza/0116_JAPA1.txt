@@ -1,6 +1,6 @@
 X0100
 116. IRIGUCHI
-pub
-entrance
 this (these)
-which
+entrance
+5
+shop

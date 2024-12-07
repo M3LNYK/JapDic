@@ -1,6 +1,6 @@
 X0001
 97. KAO
-railway station
-ceiling
 mouth
+bicycle
+table/desk
 face

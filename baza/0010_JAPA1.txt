@@ -1,6 +1,6 @@
-X0001
+X0010
 10. BOUSHI
-belgium
-notebook
-arm(s)
+switzerland
+telephone
 hat
+9

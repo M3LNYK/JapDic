@@ -1,6 +1,6 @@
 X0100
 149. TEGAMI
-belgium
+clothes
 letter
-face
-clock
+window
+book

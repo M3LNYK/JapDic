@@ -1,6 +1,6 @@
 X0001
 90. MISE
-bank
-bag
-no
+face
+this (these)
+chest
 shop

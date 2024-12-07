@@ -1,6 +1,6 @@
-X1000
+X0100
 72. EIGAKAN
+table/desk
 cinema
-lamp
-paper
-pokemon
+6
+this (these)

@@ -1,6 +1,6 @@
-X0100
+X0001
 154. ZASSHI
-door
+chair
+mirror
+person [respect form]
 magazine
-france
-neck

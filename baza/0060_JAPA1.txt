@@ -1,6 +1,6 @@
-X0100
+X0001
 60. KAISHA
-person
+door
+body
+library
 company
-bicycle
-letter

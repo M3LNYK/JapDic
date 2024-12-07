@@ -1,6 +1,6 @@
-X0010
+X0001
 32. KAGI
-museum
-castle
+stomach
+telephone
+good morning
 key(s)
-good evening

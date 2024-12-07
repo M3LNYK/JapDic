@@ -1,6 +1,6 @@
 X0001
 133. O-BUN
-chest
-key(s)
-remote controller
+no
+bank
+united kingdom
 oven

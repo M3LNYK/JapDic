@@ -1,6 +1,6 @@
-X0001
+X0010
 28. KONNICHIWA
-up
-roof
-neck
+cinema
+neko
 good afternoon
+church

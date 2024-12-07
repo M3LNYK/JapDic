@@ -1,6 +1,6 @@
-X1000
+X0001
 104. KATA
-shoulder(s)
-towel
-police station
+school
 microwave
+person
+shoulder(s)

@@ -1,6 +1,6 @@
 X0010
 21. HON
-eye glasses
-telephone
+body
+kitchen
 book
-motorbike
+tv
